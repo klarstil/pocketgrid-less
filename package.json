@@ -1,0 +1,26 @@
+{
+  "name": "pocketgrid-less",
+  "version": "1.0.0",
+  "description": "LESS port of pocketgrid, a pure CSS responsive and semantic grid system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klarstil/pocketgrid-less.git"
+  },
+  "keywords": [
+    "less",
+    "pocketgrid",
+    "semantic",
+    "responsive",
+    "grid"
+  ],
+  "author": "klarstil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/klarstil/pocketgrid-less/issues"
+  },
+  "homepage": "https://github.com/klarstil/pocketgrid-less#readme"
+}
