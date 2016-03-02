@@ -1,6 +1,6 @@
 {
   "name": "pocketgrid-less",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "LESS port of pocketgrid, a pure CSS responsive and semantic grid system",
   "main": "index.js",
   "scripts": {
